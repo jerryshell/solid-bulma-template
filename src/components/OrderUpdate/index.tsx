@@ -76,7 +76,7 @@ const OrderUpdate = () => {
                             status: 'In progress',
                         })}
                     >
-                        In pregress
+                        In progress
                     </button>
                     <button
                         class="button is-small is-success is-outlined"
